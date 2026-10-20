@@ -1,0 +1,21 @@
+{
+  "author": "\u8BC5\u5492\u5154",
+  "version": "1.0.0",
+  "description": "7.x\u5168\u6218\u804Cacr \u76EE\u524D\u53EA\u652F\u6301\u65E5\u968F\uFF0C\u8D77\u624B\u5F85\u505A\n\u5185\u542B\u667A\u80FD\u51CF\u4F24\uFF0C\u8EAB\u4F4D\u63D0\u793A\uFF0C\u590D\u6D3B/\u9A71\u6563\u81EA\u5B9A\u4E49\u8DDD\u79BB\u8BBE\u7F6E\uFF0C\u8770\u86C7\u4E09\u9644\u4F53",
+  "supportedJobs": [
+    {
+      "job": "WHM",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "DNC",
+      "contentScope": "Unspecified"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.10.4",
+  "downloadUrl": "https://raw.githubusercontent.com/Aloha-131/ff14ACR/refs/heads/main/%E8%AF%85%E5%92%92%E5%85%94.json",
+  "sourceRepositoryUrl": "",
+  "sponsorUrl": "",
+  "sha256": "4f49077de8fc37aa54883cebb13b921a0fddf2fed48502cba7de3a3ffc517af3"
+}
